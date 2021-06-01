@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 
 Hi there 👋 My name is Irati and I am a passionate Full-Stack developer and creative thinker.  
-I am currently looking for new job opportunities while working on some personal projects that get me learning along the way.  
+I am currently seeking new job opportunities while working on some personal projects that get me learning along the way.  
 For more information about me, please check out: www.linkedin.com/in/iratiarrietavega/  
