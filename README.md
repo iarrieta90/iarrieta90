@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ![portfolio-cover-iarrieta90-3](https://user-images.githubusercontent.com/64659235/119491736-9045c880-bd5e-11eb-9d15-699417654d50.jpg)
 
 
-Hi there 👋 My name is Irati and I am a passionate Full-Stack developer and creative thinker.  
+Hi there 👋 My name is Irati and I am a passionate Front-end developer.  
 For more information about me, please check out: www.linkedin.com/in/iratiarrietavega/  
